@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "e4f75e4a6d69da30",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a15015270cd3c38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "src/SUMMARY.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "a9db858ce59bc61d"
+      },
+      {
+        "id": "7f8598ef64451b42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "src/SUMMARY.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "a9db858ce59bc61d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "213918febe249ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "283c3f0901f169c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb21239b3a89da5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef83227961fa009e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0114d4aafe7ed23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42b419684c68a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1174565763a207c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7837511c335e0cf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/SUMMARY.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a15015270cd3c38",
+  "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/chapter_1.md"
+  ]
+}
