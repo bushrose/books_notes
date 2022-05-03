@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/SUMMARY.md",
+            "file": "src/chapter_1.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "a9db858ce59bc61d"
@@ -22,9 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/SUMMARY.md",
+            "file": "src/chapter_1.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         },
         "group": "a9db858ce59bc61d"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/chapter_1.md"
               }
             }
           }
@@ -113,7 +113,7 @@
   },
   "active": "7a15015270cd3c38",
   "lastOpenFiles": [
-    "src/SUMMARY.md",
-    "src/chapter_1.md"
+    "src/chapter_1.md",
+    "src/SUMMARY.md"
   ]
 }
