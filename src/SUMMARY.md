@@ -1,3 +1,3 @@
-# Summary
+# 给产品经理讲技术
 
-- [Chapter 1](./chapter_1.md)
+- [给产品经理讲技术](./chapter_1.md)
